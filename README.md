@@ -8,9 +8,6 @@ A simple and efficient **Task Manager** built using **React Native** and **Expo*
 - 🔥 **Task Prioritization (High, Medium, Low)**
 - 💾 **Persistent Storage using AsyncStorage**
 
-## 📱 Screenshots
-> Add your app screenshots here.
-
 ## 🛠️ Tech Stack
 - **React Native** (Expo)
 - **AsyncStorage** for local storage
